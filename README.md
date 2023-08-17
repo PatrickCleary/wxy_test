@@ -1,3 +1,4 @@
-# wxy_tests
+# WXY Test
 
-To take a test, please clone the relevant branch and send us back a repo with a completed notebook!
+To run:
+Download permit issuance data from: https://data.cityofnewyork.us/Housing-Development/DOB-Permit-Issuance/ipu4-2q9a and place in the root of this directory.
